@@ -1,0 +1,148 @@
+@media only screen and (max-width: 480px) {
+    .gbox3,.gbox4
+    {
+        width: 100%;
+        padding-bottom: 50%
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .footer .title-box
+    {
+        text-align: left
+    }
+
+    #nav-right
+    {
+        width: 100%!important
+    }
+
+    .nav>li
+    {
+        display: inline-block!important
+    }
+}
+
+@media only screen and (max-width: 679px) {
+    #nav-center
+    {
+        width: 100%;
+        text-align: center
+    }
+
+    #nav-right
+    {
+        width: 100%;
+        float: left;
+        text-align: center
+    }
+
+    .nav>li
+    {
+        display: inline-block
+    }
+}
+
+@media only screen and (max-width: 679px) and (min-width: 481px) {
+    .gbox3
+    {
+        width: 100%;
+        padding-bottom: 50%
+    }
+
+    .gbox4
+    {
+        width: 50%;
+        padding-bottom: 26.3%
+    }
+}
+
+@media only screen and (max-width: 940px) and (min-width: 680px) {
+    .gbox3
+    {
+        width: 33.3%;
+        padding-bottom: 26.3%
+    }
+
+    .gbox4
+    {
+        width: 50%;
+        padding-bottom: 66.3%
+    }
+}
+
+@media only screen and (min-width: 940px) {
+    .gbox3
+    {
+        width: 33.3%;
+        padding-bottom: 26.3%
+    }
+
+    .gbox4
+    {
+        width: 25%;
+        padding-bottom: 33.3%
+    }
+}
+
+@media only screen and (max-width:980px) {
+    .voucher
+    {
+        display: none
+    }
+
+    #nav-left
+    {
+        padding: 0!important
+    }
+
+    #nav-left .col-md-9
+    {
+        padding: 0!important
+    }
+}
+
+@media only screen and (max-width:360px) {
+    #nav-right
+    {
+        padding: 0!important;
+        width: 100%;
+        float: left;
+        text-align: center
+    }
+
+    #nav-center img
+    {
+        width: 100%!important
+    }
+}
+
+@media only screen and (min-width:480px) {
+    #nav-right
+    {
+        padding: 0!important;
+        text-align: center
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    .top-brand .brand-links
+    {
+        width: 100%
+    }
+
+    .top-brand .campaign
+    {
+        display: none
+    }
+
+    .header .top
+    {
+        display: none
+    }
+
+    #nav-left
+    {
+        width: 100%!important
+    }
+}
