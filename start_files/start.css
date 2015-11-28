@@ -56,7 +56,7 @@ nav {
 }
 
 #main-nav {
-    padding: 22px 0 0 0;
+    padding: 22px 0 7px 0;
 }
 
 #nav-left {
@@ -95,6 +95,7 @@ nav {
     color: #222 !important;
     text-decoration: none;
     font-size: 12px;
+    /* padding-left: 10px !important; */
 }
 
 #nav-right a {
@@ -475,3 +476,40 @@ i.fa.fa-check.i-link {
     -ms-transition: all 0.8s;
     transition: all 0.8s;
 }
+ul#menu-main-navigation ul.ubup-sub-menu {
+    width: 940px !important;
+    position: absolute;
+    margin-left: -22px !important;
+    border-top: 1px solid #1abc9c;
+    margin-top: 3px !important;
+    display: inline-block;
+    padding: 20px 20px 20px 10px;
+}
+
+ul.ubup-sub-menu li{
+    font-size: 12px;
+    line-height: 12px;
+    width: 80%;
+}
+ul.ubup-sub-menu i {
+    font-size: 20px;
+    padding-left: 10px;
+}
+ul.ubup-sub-menu p.link-title {
+    font-weight: 800;
+    padding: 15px 0 0 10px;
+    font-size: 14px;
+    color: #222;
+}
+.main-menu li ul li a {
+    padding: 0 0 0 10px !important;
+    font-weight: normal !important;
+    border-top: none;
+}
+.main-menu .child-menu-col {
+    padding: 0 0 !important;
+}
+
+
+
+

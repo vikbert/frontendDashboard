@@ -1,0 +1,16 @@
+{
+  "name": "ubup-frontend",
+  "private": true,
+  "description": "A package using ubup frontend versioning",
+  "author": "Xun Zhou <xun.zhou@momox.biz>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:UBUP/shop.git"
+  },
+  "dependencies": {
+  },
+  "engine": "node 0.10.40",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html dir="ltr" class="js"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Alles für Damen bei ubup.com. Wir sind Deutschlands Second-Hand-Shop mit der größten Auswahl. Kostenloser Hin- und Rückversand inklusive.">
+    <meta name="keywords" content="secon hand, mode, berlin, gebraucht, kleidung, accessoires, schuhe, hosen, jacken, shirts, ubup">
+    <meta name="author" content="Michael Zippe for UBUP GmbH">
+
+    <title>
+            Second Hand aus Berlin - Einzelstücke bis 90% unter Neupreis -     </title>
+    <link rel="stylesheet" href="list_files/layout.css">
+    <link rel="stylesheet" href="list_files/turquoise.css">
+    <link rel="stylesheet" href="list_files/app.css">
+    <link href="list_files/css.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="http://shop.local:8080/favicon.ico">
+</head>
+<body>
+<div class="wrapper">
+
+    <div class="header">
+        
+<div class="top">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <ul class="list-inline pull-left">
+                    <li>
+                        <i class="fa fa-truck fa-rotate"></i>
+                        <a class="title" data-toggle="modal" href="http://shop.local:8080/app_dev.php#versand">24H
+                            GRATIS VERSAND</a>&nbsp;&nbsp;
+                    </li>
+                    <li>
+                        <i class="fa fa-rotate-left"></i>
+                        <a class="title" data-toggle="modal" href="http://shop.local:8080/app_dev.php#retoure">GRATIS
+                            RETOURE</a>&nbsp;&nbsp;
+                    </li>
+                    <li>
+                        <i class="fa fa-sun-o"></i>
+                        <a target="_blank" href="https://www.trustedshops.de/shop/certificate.php?shop_id=X59645C00B5A6726FA082FF7E00E6F400">
+                            TRUSTED-SHOPS KÄUFERSCHUTZ
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-sm-6 hidden-xs pull-right">
+                <ul class="list-inline pull-right">
+                    <li>
+                        <i class="fa  fa-envelope-o"></i>
+                        <a href="http://shop.local:8080/app_dev.php#" title="">
+                            <span class="newsletter">NEWSLETTER</span>
+                        </a>
+                    </li>
+                    <li>
+                        <i class="fa fa-phone fa-2"></i>
+                        <a href="http://shop.local:8080/login-register.html" title="Login / Register">
+                            <span class="hotline">HOTLINE</span>: 030 / 488 288 289
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+
+    <nav class="navigation">
+        
+<!-- Navigation -->
+<div class="container">
+    <div id="main-nav" class="main-nav-container">
+        <div id="nav-left" class="main-nav-left">
+            <div class="col-md-9">
+                <a href="http://shop.local:8080/app_dev.php#" class="main-menu-button">Navigation</a>
+                <!-- Begin Menu Container -->
+                <div class="megamenu_container" style="">
+                    <div class="menu-main-navigation-container">
+                        <ul id="menu-main-navigation" class="main-menu" style="right: 0px;">
+
+                            <!--- START DATEMN -->
+                            <li class="menu-item-home menu-item-has-children megamenu-parent  megamenu-columns-3 megamenu-columns-0" data-width="" style="position: relative;">
+                                <a class="nav-admin" href="http://shop.local:8080/index.html">DAMEN</a>
+
+                                <ul style="width: 0px; margin-left: 35px; left: -57px;" class="sub-menu megamenu-sub-menu ubup-sub-menu">
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-suitcase"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-suitcase"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-suitcase"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-suitcase"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-suitcase"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-suitcase"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+
+
+
+                                </ul>
+                            </li>
+
+                            <!--- END DAMEN -->
+
+                            <!--- START HERREN -->
+                            <li class="menu-item-home menu-item-has-children megamenu-parent  megamenu-columns-3 megamenu-columns-0" data-width="" style="position: relative;">
+                                <a class="nav-admin" href="http://shop.local:8080/index.html">DAMEN</a>
+
+                                <ul style="width: 0px; margin-left: 35px; left: -127.283px;" class="sub-menu megamenu-sub-menu ubup-sub-menu">
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-flag"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-flag"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-flag"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-flag"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-flag"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+                                    <div class="col-sm-2 child-menu-col">
+                                        <li class="ubup-sub-link">
+                                            <i class="fa fa-flag"></i>
+                                            <p class="link-title">Accessoires</p>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Gürtel</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Hut oder Mütze</a>
+                                        </li>
+                                        <li class="ubup-sub-link">
+                                            <a href="">Portemonaie</a>
+                                        </li>
+                                    </div>
+
+
+
+                                </ul>
+                            </li>
+                            <!--- END HERREN -->
+
+                            <!--- START MÄDCHEN -->
+                            <li class="menu-item-has-children megamenu-parent megamenu-columns-0" data-width="550" style="position: relative;">
+                                <a class="nav-admin" href="http://shop.local:8080/gentlemen" title="Herren">MÄDCHEN</a>
+
+                            </li>
+                            <!--- END MÄDCHEN -->
+
+                            <!--- START JUEGEN -->
+                            <li class="menu-item-has-children megamenu-parent megamenu-columns-0" data-width="550" style="position: relative;">
+                                <a class="nav-admin" href="http://shop.local:8080/girls" title="Mädels">JUGEN</a>
+
+                            </li>
+                            <!--- END JUGEN -->
+
+                            <!--- START SEARCH -->
+                            <li class="menu-item-has-children megamenu-parent megamenu-columns-0" data-width="550" style="position: relative;">
+                                <a class="nav-admin" href="http://shop.local:8080/girls" title="Mädels">
+                                    <i class="fa fa-search"></i>
+                                </a>
+                            </li>
+                            <!--- END SEARCH -->
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div id="nav-center" class="main-nav-center">
+                        <img src="list_files/d07b8bb.png" alt="unup logo">
+                    </div>
+        <div id="nav-right" class="main-nav-right">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#">
+                        <i class="fa fa-user"></i>
+                        <p>ANMELDUNG</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-heart-o"></i>
+                        <p>MERKLISTE</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="fa fa-shopping-cart"></i>
+                        <span class="label circle">8</span>
+                        <p>WARENKORB</p>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</div>
+<!-- End class="navigation" -->
+
+    </nav>
+
+    
+    <div class="main-content container">
+            
+    <div class="col-sm-3 nav-left-container">
+    	<div class="nav-left">
+    		<p class="gender-title">HERREN</p>
+    			    		<div class="category-list">
+					<ul class="category-set">
+						<p class="category-title">Hose</p>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+					</ul>
+	            </div>
+            	    		<div class="category-list">
+					<ul class="category-set">
+						<p class="category-title">Hose</p>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+					</ul>
+	            </div>
+            	    		<div class="category-list">
+					<ul class="category-set">
+						<p class="category-title">Hose</p>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+					</ul>
+	            </div>
+            	    		<div class="category-list">
+					<ul class="category-set">
+						<p class="category-title">Hose</p>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+						<li class="sub-category"><a href="#">Jeans</a></li>
+					</ul>
+	            </div>
+            
+            <div class="hotline-box">
+	    		<p class="hotline-title">Fragen?</p>
+	    		<p class="hotline-text">
+	    			Wir sind Montag bis Freitag von 9.00 bis 18.00 Uhr für Sie 
+	    		</p>
+	    		<p>+49 (0) 30 488 288 289</p>
+	    	</div>
+
+	    	<div class="category-list">
+				<ul class="category-set">
+					<p class="category-title">Inspiration</p>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+				</ul>
+	        </div>
+	        <div class="category-list">
+				<ul class="category-set">
+					<p class="category-title">Top Marken</p>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+				</ul>
+	        </div>
+	        <div class="category-list">
+				<ul class="category-set">
+					<p class="category-title">90% SALE</p>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+					<li class="sub-category"><a href="#">Jeans</a></li>
+				</ul>
+	        </div>
+
+	        <div class="nav-ad">
+	        	                    <img src="list_files/6923393.jpg" alt="">
+                	        </div>
+    	</div>
+	</div>
+
+    <div class="col-sm-9 content-right-container">
+    	<div class="content-right">
+    		<div class="category-nav">
+    			<ul>
+    				<li class="domain-name"><a href="#">Ubup.com</a></li>
+    				<li><span>&gt;</span><a href="#">Herren</a></li>
+    				<li><span>&gt;</span><a href="#">Hosen</a></li>
+    				<li><span>&gt;</span><a href="#">Jeans</a></li>
+    			</ul>
+    		</div>
+    		<div class="list-banner">
+			  	                    <img src="list_files/3dd887c.png" alt="">
+            	    		</div>
+
+    		<div class="filter-bar">
+    			<ul class="filter-variants">
+    				<li>grösse <i class="fa fa-chevron-down"></i></li>
+    				<li>marke<i class="fa fa-chevron-down"></i></li>
+    				<li>stil<i class="fa fa-chevron-down"></i></li>
+    				<li>zustand<i class="fa fa-chevron-down"></i></li>
+    				<li>preis<i class="fa fa-chevron-down"></i></li>
+    				<li>farbe<i class="fa fa-chevron-down"></i></li>
+    				<li>material<i class="fa fa-chevron-down"></i></li>
+    			</ul>
+
+				<div class="filter-selected-container">
+					<span>Deine Auswahl: </span>
+	    			<ul class="filter-selected">
+	    				<li class="selected-filter-item">ab 5€<i class="fa fa-times filter-icon"></i></li>
+	    				<li class="selected-filter-item">ab 5€<i class="fa fa-times filter-icon"></i></li>
+	    				<li class="selected-filter-item">bis 20€<i class="fa fa-times filter-icon"></i></li>
+	    				<li class="selected-filter-item">Größe 36, 37, 38<i class="fa fa-times filter-icon"></i></li>
+	    				<li class="selected-filter-item">Baumwolle<i class="fa fa-times filter-icon"></i></li>
+	    			</ul>
+				</div>
+    		</div>
+
+    		<div class="paging-nav">
+    			<span class="paging-summary">16643 Artikel auf 118 Seiten</span>
+    			<div class="favorite-filter">
+    				<span class="favorite-filter-menu">Beliebteste zuerst <i class="fa fa-chevron-down"></i></span>
+    			</div>
+    			<div class="page-numbers">
+	    			<ul class="u-pagination pagination-sm">
+					    <li><a href="#">&lt;</a></li>
+					    <li><a href="#" class="page-start">1</a></li>
+					    <li><a href="#" class="active">2</a></li>|
+					    <li><a href="#">3</a></li> ...
+					    <li><a href="#" class="page-end">118</a></li>
+					    <li><a href="#">&gt;</a></li>
+					</ul>	
+    			</div>
+    		</div>
+
+			<div class="items-container">
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+								<div class="gItemBox3">
+                    <div class="ItemBoxInner">
+                                                <img src="list_files/e116424.jpg" alt="">
+                                            </div>
+                </div>
+
+							</div>
+    	</div>
+    </div>
+    </div>
+
+    <div class="footer">
+        <!-- footer  content-->
+
+<div class="voucher">
+    <div class="container">
+        <div class="voucher-sub voucher-title">
+            <i class="fa fa-gift voucher-font"></i>
+            <span>10 € für Dich!</span>
+        </div>
+        <div class="voucher-sub voucher-text">
+            Teile Deine Gutscheincode und erhalte pro angeworbenen Neukunden 10 euro shopping-guthaben bei uns.
+        </div>
+        <div class="voucher-sub voucher-share">
+            <div class="share-button">jetzt teilen</div>
+        </div>
+    </div>
+</div>
+<!-- Footer -->
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-sm-3">
+            <!-- Support -->
+            <div class="support">
+
+                <div class="title-box">
+                    <i class="fa fa-shopping-cart"></i>
+                    <h6>KAUFEN</h6>
+                </div>
+
+                <ul class="links">
+                    <li>
+                        <a href="http://shop.local:8080/about-us.html" title="About us" class="title">
+                            Hauptseite
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/about-us.html" title="About us" class="title">
+                            Damen
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/about-us.html" title="About us" class="title">
+                            Herren
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/about-us.html" title="About us" class="title">
+                            Jungen
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/about-us.html" title="About us" class="title">
+                            Mädchen
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/about-us.html" title="About us" class="title">
+                            Sale
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/about-us.html" title="About us" class="title">
+                            ebay ubup Shop
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <!-- End class="support" -->
+
+        </div>
+
+        <div class="col-sm-3">
+
+            <!-- benefits -->
+            <div class="customer-benefits">
+                <div class="title-box">
+                    <i class="fa fa-user"></i>
+                    <h6>KUNDENKONTO</h6>
+                </div>
+
+                <ul class="links">
+                    <li>
+                        <a href="http://shop.local:8080/category.html" title="Women">
+                            Bestellungen
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/category.html" title="Men">
+                            Daten
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/category.html" title="Girls">
+                            Login / Anmeldung
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="ubup">
+                <div class="title-box">
+                    <h6>UBUP</h6>
+                </div>
+
+                <ul class="links">
+                    <li>
+                        <a href="http://shop.local:8080/category.html" title="Women">
+                            Über uns
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://shop.local:8080/category.html" title="Men">
+                            Stellenangebote
+                        </a>
+                    </li>
+
+                </ul>
+            </div>
+            <!-- End class="categories" -->
+
+        </div>
+
+        <div class="col-sm-3">
+            <div class="title-box">
+                <i class="fa fa-star-o"></i>
+                <h6>UNSERE VORTEILE</h6>
+            </div>
+
+
+            <ul class="benefits-links">
+                <li>
+                    <i class="fa fa-check i-link"></i>
+                    <a class="b-link" href="http://shop.local:8080/blog-post.html">
+                        Keine Portokosten
+                    </a>
+                </li>
+                <li>
+                    <i class="fa fa-check i-link"></i>
+                    <a class="b-link" href="http://shop.local:8080/blog-post.html">
+                        Paypal &amp; Vorkasse
+                    </a>
+                </li>
+                <li>
+                    <i class="fa fa-check i-link"></i>
+                    <a class="b-link" href="http://shop.local:8080/blog-post.html">
+                        24h Versand
+                    </a>
+                </li>
+                <li>
+                    <i class="fa fa-check i-link"></i>
+                    <a class="b-link" href="http://shop.local:8080/blog-post.html">
+                        Gratis Retoure
+                    </a>
+                </li>
+                <li>
+                    <i class="fa fa-check i-link"></i>
+                    <a class="b-link" href="http://shop.local:8080/blog-post.html">
+                        Unser Kundenservice
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="col-sm-3">
+
+            <!-- Newsletter subscription -->
+            <div class="versand">
+                <h6 class="versand-title">GRATIS VERSTAND</h6>
+                <a href="#">
+                                    <img src="list_files/858d8f2.jpg" alt="dhl">
+                                  </a>
+            </div>
+            <div class="payment-methods">
+                <h6 class="payment-title">ZAHLUNGSARTEN</h6>
+                <a href="#">
+                                    <img src="list_files/bc9a41f.jpg" alt="paypal">
+                                  </a>
+                <a href="#">
+                                    <img src="list_files/760745b.jpg" alt="Vorkasse">
+                                  </a>
+            </div>
+            <!-- End class="newsletter" -->
+
+
+            <!-- Social icons -->
+            <div class="social-container">
+                <ul class="social-network social-circle">
+                    <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="#" class="icoPinterest" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
+                    <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="#" class="iconMail" title="Mail To"><i class="fa fa-envelope"></i></a></li>
+                </ul>
+            </div>
+            <!-- End class="social" -->
+
+        </div>
+    </div>
+</div>
+
+<!-- End id="footer" -->
+
+    </div>
+
+    <div class="credits">
+        
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-8">
+            <p>
+                © 2014-2014
+                <a href="http://www.ubub.com/" target="_self" title="UBUP.com">UBUP.com</a> ·
+                <a href="http://shop.local:8080/app.php/terms" target="_self" title="Allgemeine Geschäftsbedingungen">Allgemeine Geschäftsbedingungen</a> ·
+                <a href="http://shop.local:8080/app.php/privacy" target="_self" title="Datenschutzerklärung">Datenschutzerklärung</a> ·
+                <a href="http://shop.local:8080/app.php/imprint" target="_self" title="Impressum">Impressum</a>
+            </p>
+        </div>
+        <div class="col-sm-4 text-right hidden-xs">
+            <p><b>U</b>sed<b>BU</b>t<b>P</b>recious</p>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+
+</div>
+
+    <script src="list_files/vendor.js" async=""></script>
+
+
+</body></html>
